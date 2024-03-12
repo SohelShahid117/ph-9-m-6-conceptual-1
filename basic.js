@@ -173,6 +173,8 @@ function add(x,y){
 }
 console.log(add(2,3));
 
+
+//arrow function
 const sum =(x,y)=>{
     return x+y
 }
@@ -183,3 +185,10 @@ console.log(sum(22,33));
 
 const double = (x)=>x*2;
 console.log(double(5));
+
+//array method:
+const numberr = [12,13,24,3,45,56];
+console.log(numberr)
+
+//forEach,find,filter,reduce
+
