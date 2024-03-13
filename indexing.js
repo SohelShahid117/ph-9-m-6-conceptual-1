@@ -1,3 +1,4 @@
+//part-3
 const number = [1,22,33,45,63,72];
 number.map((itm,itmIndx,itmArr)=>{
     console.log('item:',itm,'item index:',itmIndx,'Item Array:',itmArr)

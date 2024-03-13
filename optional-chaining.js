@@ -1,3 +1,4 @@
+//part-2
 const petoWner = {
     name:'Sohel Shahid',
     contact :{

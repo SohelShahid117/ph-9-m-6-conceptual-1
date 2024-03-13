@@ -1,3 +1,5 @@
+//part-5
+
 //Classes are a template for creating objects
 class animal {
     name ='abc'
