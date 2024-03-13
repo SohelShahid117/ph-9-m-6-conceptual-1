@@ -256,3 +256,9 @@ for(let x of filtrrr4){
 console.log(summm2);
 
 //1:24
+
+console.log(`-------------------reduce method------------------`)
+// reduce(callbackfn: (previousValue: number, currentValue: number, currentIndex: number, array: number[]) => number, initialValue: number): number
+
+let summmation = filtrrr4.reduce((preValue,currentValue)=>preValue+currentValue,0)
+console.log(summmation)
